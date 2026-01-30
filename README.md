@@ -1,17 +1,16 @@
 # Thesis
 
-# Análisis de Área y Conectividad y Dinámica Paisajística (Tesis)
+# Analysis of Area, Connectivity, and Landscape Dynamics
+This repository contains the complete workflow of my thesis research, which focuses on the current and historical area and connectivity of páramo patches in the Northern Andes over the last million years, and their effect on bird species richness.
 
-Este repositorio contiene el flujo de trabajo completo de mi investigación de tesis, centrada en el área y la conectividad actual e histórica en el último millón de años de los parches de páramo en los Andes del Norte, y su efecto en la riqueza de especies de aves. 
+## 📌 Project Content
+Automation: Python scripts for the massive processing of páramo species data.
+Current Analysis: Patch identification, area calculation, and connectivity metrics using Terra and SF.
+Historical Reconstruction: Processing of past landscape configurations for comparative analysis.
+Historical Analysis: Calculation of area and connectivity metrics over the last million years.
+Statistical Analysis: Models incorporating predictor variables to explain species richness.
 
-## 📌 Contenido del Proyecto
-* **Automatización:** Scripts en **Python** para el procesamiento masivo de datos de especies de páramo. 
-* **Análisis Actual:** Identificación de parches, cálculo de área y métricas de conectividad usando `terra` y `sf`.
-* **Reconstrucción Histórica:** Procesamiento de configuraciones de paisaje pasadas para análisis comparativo.
-* **Análisis Histórico:** Cálculo de área y métricas de conectividad en el último millón de años
-* **Análisis estadístico** Modelos que incorporan las variables predictoras para explicar la riqueza de especies 
-
-## 🛠️ Herramientas Principales
-- **R:** `terra`, `dplyr`, `tidyterra`, `ggplot2`.
-- **Python:** Automatización de flujos de trabajo.
-- **QGIS:** Validación espacial y edición vectorial.
+## 🛠️ Main Tools
+R: Terra, dplyr, tidyterra, ggplot2.
+Python: Workflow automation.
+QGIS: Spatial validation and vector editing.
