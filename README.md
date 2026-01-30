@@ -1,6 +1,6 @@
 # Thesis
 
-# Analysis of Area, Connectivity, and Landscape Dynamics
+# Effects of area and connectivity in the present and in the last million years on the bird richness of the páramo in the Northern Andes
 This repository contains the complete workflow of my thesis research, which focuses on the current and historical area and connectivity of páramo patches in the Northern Andes over the last million years, and their effect on bird species richness.
 
 ## 📌 Project Content
